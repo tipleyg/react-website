@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "react": "^18.3.1"
-  }
+  },
+  "name": "react-website",
+  "version": "1.0.0",
+  "description": "testbed",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tipleyg/react-website.git"
+  },
+  "author": "Geoffrey Tipley",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/tipleyg/react-website/issues"
+  },
+  "homepage": "https://github.com/tipleyg/react-website#readme"
 }
